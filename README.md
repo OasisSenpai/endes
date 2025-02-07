@@ -1,7 +1,7 @@
 # ENDES
 
 ## Indice
-- [Descripción]([Descripción](https://github.com/OasisSenpai/endes?tab=readme-ov-file#descripci%C3%B3n))
+- [Descripción](https://github.com/OasisSenpai/endes?tab=readme-ov-file#descripci%C3%B3n)
 - [Pruebas](https://github.com/OasisSenpai/endes?tab=readme-ov-file#pruebas)
 
 ## Descripción
